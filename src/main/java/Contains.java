@@ -14,6 +14,7 @@ public class Contains {
         for(int i:arr){
             if(i==target){
                 return true;
+                break;
             }
         
         }return false  ;
