@@ -15,6 +15,7 @@ public class Contains {
             if(i==target){
                 return true;
             }
-        return false  ;
+        
+        }return false  ;
     }
 }
